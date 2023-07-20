@@ -24,7 +24,7 @@ end
 
 cmds["chat"] = function(args, p)
   if(args[1] == "" or args[1] == nil) then
-     game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Agony ON TOP!","All")
+     game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("FREE DHC FROM FAJKA!","All")
   else
      local str = ""
      for i = 1,50 do
